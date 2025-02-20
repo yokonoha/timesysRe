@@ -15,7 +15,7 @@
 //  sec:秒のみ代入
 //  day:曜日のみ代入
 //youbi:日本語表記での曜日を代入
-//xingqi:星期。中文(簡体字) -Beta
+//xingqi:星期。(簡体字) -Beta
 //<script src="timesysre.js"></script>
 
 //例
