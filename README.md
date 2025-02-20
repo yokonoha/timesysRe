@@ -23,5 +23,16 @@ Apply!
 2025/02/20  
 Thursday  
 16:32 45  
+### Available IDs  
+// year: 年のみ代入  
+//month: 月のみ代入  
+// date: 日のみ代入  
+// hour: 時のみ代入  
+//  min: 分のみ代入  
+//  sec:秒のみ代入  
+//  day:曜日のみ代入  
+//youbi:日本語表記での曜日を代入  
+//xingqi:星期。(簡体字) -Beta(中国語(汉语)での表記にも対応しています。)  
+***************************
 ©2025 横茶横葉 All Rights Reserved.  
 ©2025 横葉の工房 All Rights Reserved.  
