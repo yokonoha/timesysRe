@@ -17,7 +17,9 @@ Apply!
 <p id="day"></p>
 <p><span id="hour"></span>:<span id="min"></span> <small><span id="sec"></span></small></p>
 ```
-プレビュー
-2025/02/20
-Thursday
-16:32 45
+プレビュー  
+2025/02/20  
+Thursday  
+16:32 45  
+©2025 横茶横葉 All Rights Reserved.  
+©2025 横葉の工房 All Rights Reserved.  
