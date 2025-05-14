@@ -1,9 +1,10 @@
 # timesysRe  
+↓Translations (Chinese is by Machine translation)
+[English](./en.md)[Chinese(simplified)](./cn.md)  
 Time display System script (Recreated) Rev.2
-使いやすい時刻表示スクリプト  
-Caffeine Appsのパーツです。  
+使いやすい時刻表示スクリプト   
 ### New!  
-Rev.2より、12時間表示とAM/PM表記に対応しました! 詳しくはスクリプト内部に記載しています。  
+Rev.2より、12時間表示とAM/PM表記に対応しました!  
 ### About Licenses
 ライセンスはありませんが著作権は横茶横葉が保持しています。  
 横茶横葉の利用規約に従ったうえで、ご自由にご活用ください。  
@@ -37,7 +38,11 @@ Thursday
 //  day:曜日のみ代入  
 //youbi:日本語表記での曜日を代入  
 //xingqi:星期。(簡体字) -Beta(中国語(汉语)での表記にも対応しています。)  
+
+(Rev2から対応)
+// ampm: AM/PMのみ代入
+// hour2: 12時間制の時のみ代入
+
 ***************************
 ©2025 横茶横葉 All Rights Reserved.  
-©2025 横葉の工房 All Rights Reserved.  
-(再度新規製作したためReを名称に含めました。)  
+©2025 横葉の工房 All Rights Reserved.    
