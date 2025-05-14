@@ -1,6 +1,10 @@
-# timesysRe
+# timesysRe  
+Time display System script (Recreated) Rev.2
 使いやすい時刻表示スクリプト  
 Caffeine Appsのパーツです。  
+### New!  
+Rev.2より、12時間表示とAM/PM表記に対応しました! 詳しくはスクリプト内部に記載しています。  
+### About Licenses
 ライセンスはありませんが著作権は横茶横葉が保持しています。  
 横茶横葉の利用規約に従ったうえで、ご自由にご活用ください。  
 利用規約へはメインサイトのfooterからアクセスできます。  
