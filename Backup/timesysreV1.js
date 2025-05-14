@@ -2,22 +2,20 @@
 ////  Timesys.js (Recreated)   ////
 ////    Y.Yokoha Studio        ////
 ///////////////////////////////////
-//Revision2 -Support AM/PM and 12-hour format-
+
 // 使いやすい時刻表示スクリプトを制作しました。
 //以下のIDをspan要素やp要素などのテキスト系要素に追記し、<script>タグをbodyタグ下に記載するだけで、
-//使えます。様々なケースでの利用が出来ると思います!
+//使えます。
 // Available IDs
 // year: 年のみ代入
 //month: 月のみ代入
 // date: 日のみ代入
-// ampm: AM/PMのみ代入
 // hour: 時のみ代入
-// hour2: 12時間制の時のみ代入
 //  min: 分のみ代入
 //  sec:秒のみ代入
 //  day:曜日のみ代入
 //youbi:日本語表記での曜日を代入
-//xingqi:星期。中文(簡体字) -Beta
+//xingqi:星期。(簡体字) -Beta
 //<script src="timesysre.js"></script>
 
 //例
@@ -179,33 +177,8 @@ if(document.getElementById("xingqi"))
 {
     document.getElementById("xingqi").innerHTML=cnday;
 }
-if(document.getElementById("ampm"))
-    {
-        let ap;
-        if(decentformatofhour>11)
-        {
-            ap="PM";
-        }
-        else
-        {
-            ap="AM"
-        }
-        document.getElementById("ampm").innerHTML=ap;
-    }
-if(document.getElementById("hour2"))
-    {
-        let yomikae;
-        if(decentformatofhour>12)
-        {
-            let tmp=hour-1;
-            yomikae=tmp.toString();
-        }
-        else
-        {
-            yomikae=decentformatofhour
-        }
-        document.getElementById("hour2").innerHTML=yomikae;
-    }
+
+
 
 
     }),100);
