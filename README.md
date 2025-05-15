@@ -28,7 +28,7 @@ Apply!
 2025/02/20  
 Thursday  
 16:32 45  
-### Available IDs  
+### 🆔Available IDs  
 // year: 年のみ代入  
 //month: 月のみ代入  
 // date: 日のみ代入  
