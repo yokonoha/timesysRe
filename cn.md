@@ -27,25 +27,26 @@ Apply!
 <p id="day"></p>
 <p><span id="hour"></span>:<span id="min"></span> <small><span id="sec"></span></small></p>
 ```
-プレビュー  
+Preview  
 2025/02/20  
 Thursday  
 16:32 45  
-### Available IDs  
-// year: 年のみ代入  
-//month: 月のみ代入  
-// date: 日のみ代入  
-// hour: 時のみ代入  
-//  min: 分のみ代入  
-//  sec:秒のみ代入  
-//  day:曜日のみ代入  
-//youbi:日本語表記での曜日を代入  
-//xingqi:星期。(簡体字) -Beta(中国語(汉语)での表記にも対応しています。)  
 
-(Rev2から対応)
-// ampm: AM/PMのみ代入
-// hour2: 12時間制の時のみ代入
+### Available IDs  
+// year  
+//month  
+// date  
+// hour  
+//  min  
+//  sec  
+//  day  
+//youbi:日语  
+//xingqi:星期(簡体字) -Beta(汉语)  
+
+(Rev2〜)
+// ampm: AM/PM
+// hour2: 12h
 
 ***************************
-©2025 横茶横葉 All Rights Reserved.  
-©2025 横葉の工房 All Rights Reserved.    
+©2025 横茶横叶 All Rights Reserved.  
+©2025 横叶的工房 All Rights Reserved.    
