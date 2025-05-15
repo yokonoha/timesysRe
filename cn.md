@@ -1,5 +1,7 @@
 簡体中文（简体版）
 
+This is by machine translation. So,this may include mistakes.  
+
 Time display System script (Recreated) Rev.2
 易于使用的时间显示脚本
 
