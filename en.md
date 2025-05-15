@@ -16,3 +16,40 @@ https://yokonoha.github.io/readme
 (Excerpt from the Terms of Use → The developer assumes no responsibility for any consequences resulting from the use of this component.)  
 Other repositories may apply the MIT License or Y.Yokoha's own licenses to timesysre.js, but rest assured, such licenses do not apply to the version downloaded from this repository!  
 It would be greatly appreciated if you give credit, but if you prefer not to, that's completely fine as well!  
+
+
+
+## Examples  
+Apply!  
+```html.html
+<script src="timesysre.js"></script>
+```
+& Use!  
+```usecase.html
+<p><span id="year"></span>/<span id="month"></span>/<span id="date"></span></p>
+<p id="day"></p>
+<p><span id="hour"></span>:<span id="min"></span> <small><span id="sec"></span></small></p>
+```
+Preview  
+2025/02/20  
+Thursday  
+16:32 45  
+
+### Available IDs  
+// year  
+//month  
+// date  
+// hour  
+//  min  
+//  sec  
+//  day  
+//youbi: Japanese  
+//xingqi:Chinese(simplified)  
+
+(Rev2〜)
+// ampm: AM/PM
+// hour2: 12h
+
+***************************
+©2025 Y.Yokoha All Rights Reserved.  
+©2025 Yokoha Studio Projects All Rights Reserved.    
