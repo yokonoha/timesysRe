@@ -1,9 +1,9 @@
-# timesysRe  
+# ⌚timesysRe  
 ↓Translations (Chinese is by Machine translation)
 [English](./en.md)||[Chinese(simplified)](./cn.md)||[Chinese(Traditional)](./cn2.md)  
 Time display System script (Recreated) Rev.2
 使いやすい時刻表示スクリプト   
-### New!  
+### 🆕New!  
 Rev.2より、12時間表示とAM/PM表記に対応しました!  
 ### About Licenses
 ライセンスはありませんが著作権は横茶横葉が保持しています。  
