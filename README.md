@@ -1,8 +1,12 @@
 # ⌚timesysRe  
-↓Translations (Chinese is by Machine translation)
-[English](./en.md)||[Chinese(simplified)](./cn.md)||[Chinese(Traditional)](./cn2.md)  
+*********************
+↓Translations (Chinese is by Machine translation)  
+
+[English](./en.md) || [Chinese(simplified)](./cn.md) || [Chinese(Traditional)](./cn2.md)  
+*********************
 Time display System script (Recreated) Rev.2
 使いやすい時刻表示スクリプト   
+
 ### 🆕New!  
 Rev.2より、12時間表示とAM/PM表記に対応しました!  
 ### About Licenses
@@ -28,6 +32,7 @@ Apply!
 2025/02/20  
 Thursday  
 16:32 45  
+
 ### 🆔Available IDs  
 // year: 年のみ代入  
 //month: 月のみ代入  
