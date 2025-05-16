@@ -43,8 +43,9 @@ Thursday
 //  min  
 //  sec  
 //  day  
-//youbi: Japanese  
-//xingqi:Chinese(simplified)  
+//youbi: Japanese
+// zhou: Chinese1    
+//xingqi:Chinese2  
 
 (Rev2〜)
 // ampm: AM/PM
