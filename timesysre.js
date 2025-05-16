@@ -2,7 +2,7 @@
 ////  Timesys.js (Recreated)   ////
 ////    Y.Yokoha Studio        ////
 ///////////////////////////////////
-//Revision2 -Support AM/PM and 12-hour format-
+//Revision2.5 -Support AM/PM and 12-hour format-
 // 使いやすい時刻表示スクリプトを制作しました。
 //以下のIDをspan要素やp要素などのテキスト系要素に追記し、<script>タグをbodyタグ下に記載するだけで、
 //使えます。様々なケースでの利用が出来ると思います!
@@ -17,7 +17,8 @@
 //  sec:秒のみ代入
 //  day:曜日のみ代入
 //youbi:日本語表記での曜日を代入
-//xingqi:星期。中文(簡体字) -Beta
+// zhou:周。 中文
+//xingqi:星期。中文
 //<script src="timesysre.js"></script>
 
 //例
@@ -37,6 +38,7 @@ let decentformatofhour;
 let decentformatofmin;
 let decentformatofsec;
 let cnday;
+let cnday2;
 let jpday;
 let enday;
 let errcode;
@@ -80,42 +82,49 @@ setInterval((()=>
         if(xingqi==0)
         {
              cnday="星期天";
+             cnday2="周日";
              jpday="日曜日";
             enday="Sunday";
         }
         else if(xingqi==1)
         {
             cnday="星期一";
+            cnday2="周一";
             jpday="月曜日";
             enday="Monday";
         }
         else if(xingqi==2)
         {
             cnday="星期二";
+            cnday2="周二";
             jpday="火曜日";
             enday="Tuesday";
         }
         else if(xingqi==3)
         {
             cnday="星期三";
+            cnday2="周三";
             jpday="水曜日";
             enday="Wednesday";
         }
         else if(xingqi==4)
         {
             cnday="星期四";
+            cnday2="周四";
             jpday="木曜日";
             enday="Thursday";
         }
         else if(xingqi==5)
         {
             cnday="星期五";
+            cnday2="周五";
             jpday="金曜日";
             enday="Friday";
         }
         else if(xingqi==6)
         {
             cnday="星期六";
+            cnday2="周六";
             jpday="土曜日";
             enday="Saturday";
         }
@@ -178,6 +187,10 @@ if(document.getElementById("youbi"))
 if(document.getElementById("xingqi"))
 {
     document.getElementById("xingqi").innerHTML=cnday;
+}
+if(document.getElementById("zhou"))
+{
+    document.getElementById("zhou").innerHTML=cnday2;
 }
 if(document.getElementById("ampm"))
     {
