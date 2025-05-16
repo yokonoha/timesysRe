@@ -9,6 +9,7 @@ Time display System script (Recreated) Rev.2
 
 ### 🆕New!  
 Rev.2より、12時間表示とAM/PM表記に対応しました!  
+Rev.2.5より、周(中国語表記2つ目)にも対応しました。  
 ### About Licenses
 ライセンスはありませんが著作権は横茶横葉が保持しています。  
 横茶横葉の利用規約に従ったうえで、ご自由にご活用ください。  
@@ -41,8 +42,9 @@ Thursday
 //  min: 分のみ代入  
 //  sec:秒のみ代入  
 //  day:曜日のみ代入  
-//youbi:日本語表記での曜日を代入  
-//xingqi:星期。(簡体字) -Beta(中国語(汉语)での表記にも対応しています。)  
+//youbi:日本語表記での曜日を代入 
+// zhou:周(中国語) 
+//xingqi:星期(中国語)  
 
 (Rev2から対応)
 // ampm: AM/PMのみ代入
