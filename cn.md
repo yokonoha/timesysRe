@@ -43,7 +43,8 @@ Thursday
 //  sec  
 //  day  
 //youbi:日语  
-//xingqi:星期(簡体字) -Beta(汉语)  
+// zhou:周(汉语)  
+//xingqi:星期(汉语)  
 
 (Rev2〜)
 // ampm: AM/PM
