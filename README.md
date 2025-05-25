@@ -1,9 +1,9 @@
 # ⌚timesysRe  
 *********************
-[!TIP]
-↓Translations (Chinese is by Machine translation)  
-
-[English](./en.md) || [Chinese(simplified)](./cn.md) || [Chinese(Traditional)](./cn2.md)  
+>[!TIP]
+>↓Translations (Chinese is by Machine translation)  
+>
+>[English](./en.md) || [Chinese(simplified)](./cn.md) || [Chinese(Traditional)](./cn2.md)  
 *********************
 Time display System script (Recreated) Rev.2
 使いやすい時刻表示スクリプト   
