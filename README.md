@@ -1,5 +1,6 @@
 # ⌚timesysRe  
 *********************
+[!TIP]
 ↓Translations (Chinese is by Machine translation)  
 
 [English](./en.md) || [Chinese(simplified)](./cn.md) || [Chinese(Traditional)](./cn2.md)  
