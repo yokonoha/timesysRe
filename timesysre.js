@@ -1,6 +1,6 @@
 ///////////////////////////////////
 ////  Timesys.js (Recreated)   ////
-////    Y.Yokoha Studio        ////
+////    Y.Yokoha               ////
 ///////////////////////////////////
 //Revision2.5 -Support AM/PM and 12-hour format-
 // 使いやすい時刻表示スクリプトを制作しました。
