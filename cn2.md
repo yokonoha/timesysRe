@@ -9,7 +9,7 @@ Time display System script (Recreated) Rev.2
 
 新功能！  
 
-從 Rev.2 起，支援12小時制與AM/PM標示！  
+從 Rev.2 起，支援AM/PM標示！  
 
 關於授權  
 
@@ -52,7 +52,7 @@ Thursday
 
 (Rev2〜)
 // ampm: AM/PM
-// hour2: 12h
+
 
 ***************************
 ©2025 横茶横葉 All Rights Reserved.  
