@@ -9,7 +9,7 @@ Time display System script (Recreated) Rev.2
 使いやすい時刻表示スクリプト   
 
 ### 🆕New!  
-Rev.2より、12時間表示とAM/PM表記に対応しました!  
+Rev.2より、AM/PM表記に対応しました!  
 Rev.2.5より、周(中国語表記2つ目)にも対応しました。  
 ### About Licenses
 ライセンスはありませんが著作権は横茶横葉が保持しています。  
@@ -49,7 +49,6 @@ Thursday
 
 (Rev2から対応)
 // ampm: AM/PMのみ代入
-// hour2: 12時間制の時のみ代入
 
 ***************************
 ©2025 横茶横葉 All Rights Reserved.  
