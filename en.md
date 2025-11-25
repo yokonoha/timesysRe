@@ -5,7 +5,7 @@ A useful time display script
 
 ## New!  
 
-From Rev.2, 12-hour format and AM/PM notation are now supported!  
+From Rev.2, AM/PM notation are now supported!  
 
 ## About Licenses
 
@@ -49,8 +49,7 @@ Thursday
 
 (Rev2〜)
 // ampm: AM/PM
-// hour2: 12h
 
 ***************************
 ©2025 Y.Yokoha All Rights Reserved.  
-©2025 Yokoha Studio Projects All Rights Reserved.    
+©2025 Project YOKONOHA All Rights Reserved.    
